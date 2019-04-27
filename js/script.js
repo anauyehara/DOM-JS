@@ -12,6 +12,10 @@ console.log(para1);
 var para1usingselector = document.querySelector('#para-1');
 console.log(para1usingselector);
 para1.style.color ='blue';
+
+var btn = document.getElementsByClassName('button');
+console.log(btn[0]);
+
 var btnusingselector = document.querySelector('.button');
 console.log(btnusingselector);
 btn[0].style.padding ='10px';
