@@ -65,5 +65,9 @@ document.addEventListener('keyup', function (event){
 //listen for scroll event on document
 //console.log the position of the cursor on the document
 
+document.addEventListener('scroll',function (event){
+    console.log(event);
+    //console.log(event.)
+})
   
 
