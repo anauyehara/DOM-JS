@@ -27,8 +27,14 @@ for(var i=0; i<=4; i++){
 //do while
 var index =0;
 
-do {
-console.log(fruits [index]);
-index++;
-}while (index < fruits.length);
+//do {
+//console.log(fruits [index]);
+//index++;
+//}while (index < fruits.length);
 
+//while 
+while (index < fruits.length){
+console.log(fruits[index]);
+index++;
+
+}
