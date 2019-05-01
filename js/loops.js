@@ -33,8 +33,24 @@ var index =0;
 //}while (index < fruits.length);
 
 //while 
-while (index < fruits.length){
-console.log(fruits[index]);
-index++;
+// while (index < fruits.length){
+// console.log(fruits[index]);
+// //index++;
+// index +=1;
 
+// }
+
+//hile (hour> 18 && hour <21){ // stands for || or
+
+//}
+
+// for in
+
+fruits.foo = 'test';
+for (var i in fruits){
+  console.log(i);
+}
+// for of
+for (var i of fruits){
+  console.log(i);
 }
