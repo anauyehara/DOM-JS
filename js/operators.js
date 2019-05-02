@@ -4,4 +4,5 @@
 //else if x is greater than 14 & less than 18
 //
 
-var 
+var age = 'A number';
+console.log(age.typeof);
