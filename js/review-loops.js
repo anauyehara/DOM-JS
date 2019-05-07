@@ -1,6 +1,6 @@
 //var users = {
   //  name: 'Ana',
-    //hp: 50,
+  //hp: 50,
  
 //};
 //console.log(user);
@@ -40,6 +40,7 @@ console.log(users);
 //output each user to console.log
 
 console.log();
+console.log
 
 
 
