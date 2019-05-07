@@ -15,6 +15,9 @@ console.log (!isNaN(name));
 // alert ('Enter Valid Name'):
 // user.name = name;
 
+//arrow function
+var newIsExcluded = excludedName.find ((excluded)=> excluded ===name);        
+
 if (name && isNaN (name)){
     user.name = name;
     var power = prompt('Enter your Power');
